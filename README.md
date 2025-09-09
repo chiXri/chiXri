@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.png" alt="Banner" width="100%">
+</p>
+
+
 # 👋 Hola, soy Marco Chirinos Aventin
 
 💻 **Desarrollador en formación** con experiencia en:
